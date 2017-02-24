@@ -11,13 +11,13 @@ Software:
 
 # Installation and First Steps
 
-* Clone this repository:  
+* Clone this repository:   
     git clone https://github.com/philsmd/analyze_hccapx.git  
-* Enter the repository root folder:
+* Enter the repository root folder:  
     cd analyze_hccapx
-* Get a test hccapx file (e.g):
+* Get a test hccapx file (e.g):  
     wget http://hashcat.net/misc/example_hashes/hashcat.hccapx
-* Run it:  
+* Run it:   
     ./analyze_hccapx.pl hashcat.hccapx
 * Check output
 
